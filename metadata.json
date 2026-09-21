@@ -1,0 +1,6 @@
+{
+  "name": "MAYRA AI Assistant",
+  "description": "Intelligent, friendly, and reliable personal AI assistant for everyday tasks, voice commands, coding, creativity, and productivity.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
